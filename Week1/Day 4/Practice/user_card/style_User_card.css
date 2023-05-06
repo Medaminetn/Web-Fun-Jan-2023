@@ -1,0 +1,99 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+
+
+.box{
+    width: 1000px;
+    margin: 0px auto;
+    margin-top: 10%;
+    
+    
+    
+    border-radius: 10px;
+    border-style:groove;
+
+    border-color: rgb(221, 220, 220);
+    background-color: rgb(255, 255, 255);
+    
+}
+
+
+.box1{
+    height: 200px;
+    background-color: rgb(30, 173, 184);
+}
+
+
+
+
+
+.name{
+    margin-left: 15% ;
+    margin-top: 7%;
+    font-size: 300%;
+    font-family: cursive;
+}
+
+
+
+
+.picture{
+    margin-top: 100px;
+    margin-left: 15%;
+    height: 80%;
+    border-radius: 50%;
+    border-style: double;
+    border-color:  rgb(221, 220, 220);
+    overflow: hidden;
+
+}
+
+
+.Place{
+    margin-left: 15% ;
+    margin-top: 2%;
+    font-size: 210%;
+    font-family: cursive;
+}
+
+.icone_place{
+    width: 3%;
+    display: inline-block;
+
+}
+
+
+.text{
+        margin-left: 15% ;
+        margin-top: 1%;
+        font-size: 190%;
+        font-family: 'Roboto', sans-serif;
+    }
+
+
+
+.edit{
+    margin-left: 15% ;
+    margin-top: 1%;
+    font-size: 190%;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+}
+
+a{
+    color: rgb(7, 122, 216);
+    font-weight: bold;
+}
+
+.gear{
+    width: 5%;
+    display: inline-block;
+    margin-bottom: 5%;
+    margin-right: 1%;
+
+}
