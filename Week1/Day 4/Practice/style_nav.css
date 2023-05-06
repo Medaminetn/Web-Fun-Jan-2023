@@ -1,0 +1,55 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: cursive;
+}
+
+
+.nav{
+    background-color: rgb(77, 73, 73);
+    display: flex;
+    justify-content: space-between;
+    
+
+
+}
+
+
+.nav-title{
+    margin-left: 50px;
+    font-weight: bolder;
+
+    
+    
+
+}
+
+.nav-links{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    
+
+}
+
+
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+   
+}
+
+.btn{
+
+    font-size: 2rem;
+    color: white;
+    background-color: rgb(9, 141, 218);
+    box-shadow: 3px 3px black;
+    border-color: black;
+    
+    
+}
+
